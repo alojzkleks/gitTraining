@@ -14,3 +14,5 @@ zmiana 1 main
 zmiana 1 f4
 zmiana 2 f4
 zmiana 3 f4
+
+zmiana 1 f5
