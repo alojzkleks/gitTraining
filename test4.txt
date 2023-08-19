@@ -2,3 +2,5 @@ Commit to merge squash 1
 Commit to merge squash 2
 Commit to merge squash 3
 Commit to merge squash 4
+
+zmiana f2
