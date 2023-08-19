@@ -7,3 +7,5 @@ zmiana 2 b1
 
 zmiana f1 
 zmiana f2
+
+zmiana 1 f3
