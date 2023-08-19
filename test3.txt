@@ -9,3 +9,4 @@ zmiana f1
 zmiana f2
 
 zmiana 1 f3
+zmiana 2 f3
