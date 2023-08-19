@@ -11,3 +11,4 @@ zmiana 1 (b1)
 zmiana f2
 
 zmiana 1 main
+zmiana 1 f4
