@@ -1,3 +1,5 @@
 Feautre commit new 1
 Feature commit new 2
 zmiana 3 b1
+
+zmiana 1 f1
