@@ -12,3 +12,4 @@ zmiana 1 f3
 zmiana 2 f3
 zmiana 3 f3
 zmiana 4 f3
+zmiana 5 f3
