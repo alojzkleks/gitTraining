@@ -5,17 +5,20 @@ Commit to squash 3
 Commit to squash 4
 zmiana 2 b1
 
-zmiana f1 
+zmiana f1 tralalala
 zmiana f2
 
-zmiana 1 f3
+zmiana 1 SDFDFSDFSDFSD
 zmiana 2 f3
 zmiana 3 f3
 zmiana 4 f3
-zmiana 5 f3
+zmiana 5 f3/zmiana 2 f8
 
 zmiana 1 main
 
 zmiana 1 f7
 zmiana 2 f7
 zmiana 3 f7
+
+zmiana 1 f8
+zmiana 2 f8
