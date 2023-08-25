@@ -9,3 +9,5 @@ zmiana 1 f9
 zmiana 2 f9
 zmiana 4 f9
 zmiana 5 f9
+
+zmiana f10
