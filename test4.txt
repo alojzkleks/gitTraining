@@ -1,14 +1,14 @@
 Commit to merge squash 1
 Commit to merge squash 2
-Commit to merge squash 3
+Commit to merge squash 3ggg
 Commit to merge squash 4
 
 zmiana f2
 
-zmiana 1 f9
+zmiana 1 f9adfg
 zmiana 2 f9
 zmiana 4 f9
-zmiana 5 f9
+zmiana 5 f9 trataret
 
 zmiana f10
 i druga
