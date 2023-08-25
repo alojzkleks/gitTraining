@@ -11,3 +11,4 @@ zmiana 4 f9
 zmiana 5 f9
 
 zmiana f10
+i druga
