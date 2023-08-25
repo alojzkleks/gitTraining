@@ -7,3 +7,4 @@ zmiana f2
 
 zmiana 1 f9
 zmiana 2 f9
+zmiana 4 f9
