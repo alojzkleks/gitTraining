@@ -5,7 +5,7 @@ Commit to squash 3
 Commit to squash 4
 zmiana 2 b1
 
-zmiana f1 
+zmiana f1 tralalala
 zmiana f2
 
 zmiana 1 SDFDFSDFSDFSD
