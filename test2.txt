@@ -3,3 +3,5 @@ Feature commit new 2
 zmiana 3 b1
 
 zmiana 1 f1
+
+zmiana 7 f9
