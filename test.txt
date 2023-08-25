@@ -17,3 +17,5 @@ zmiana 3 f4
 
 zmiana 1 f5
 zmiana 2 f5
+
+zmiana f9
