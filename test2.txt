@@ -1,10 +1,10 @@
-Feautre commit new 1
+Feautre commit new 1. Dodaję zmianę f 17
 Feature commit new 2
 zmiana 3 b1
 
 zmiana 1 f1
 
-zmiana 7 f9 + f15
+zmiana 7 f9 + f15 + f17
 
 Zmiana f11 -asdfasdf
 
