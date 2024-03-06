@@ -19,10 +19,3 @@ zmiana 1 f5
 zmiana 2 f5
 
 zmiana f9
-
-<<<<<<< HEAD
-amiana f12 + zmiana f14
-=======
-amiana f12
-zmiana f15 tralalal
->>>>>>> 3a91d5a (f15 zmiana)
