@@ -14,5 +14,5 @@ zmiany na f14
 kolejne zmiany na f14
 
 to jest commit z maina prosto to maina, ale też z poprawką f15
-f16 zmiany
+f16 zmiany f18
 
