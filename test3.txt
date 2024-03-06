@@ -24,3 +24,4 @@ zmiana 1 f8
 Nie lubie plackuf ale nie tylko ich
 
 zmiana 14 f17
+zmiana f18 asdf
