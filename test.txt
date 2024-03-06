@@ -20,4 +20,4 @@ zmiana 2 f5
 
 zmiana f9
 
-amiana f12
+amiana f12 + zmiana f14
