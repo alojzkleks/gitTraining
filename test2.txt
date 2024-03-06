@@ -11,3 +11,4 @@ Zmiana f11 -asdfasdf
 to jest commit z maina prosto to maina\
 
 zmiany na f14
+kolejne zmiany na f14
