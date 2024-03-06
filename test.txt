@@ -19,3 +19,5 @@ zmiana 1 f5
 zmiana 2 f5
 
 zmiana f9
+
+amiana f12
