@@ -22,3 +22,5 @@ zmiana 3 f7
 zmiana 1 f8
 
 Nie lubie plackuf ale nie tylko ich
+
+zmiana 14
