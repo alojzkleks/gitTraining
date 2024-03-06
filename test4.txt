@@ -16,5 +16,7 @@ i druga
 zmiana f11 - ta zmiana jest ważna
 zmiana f11 - ta zmiana jest ważna
 
-zmiana f12
+zmiana f12 + f16
 zmiana f14
+
+zmiana f16
