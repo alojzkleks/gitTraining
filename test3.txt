@@ -16,7 +16,6 @@ zmiana 5 f3/zmiana 2 f8
 
 zmiana 1 main
 
-zmiana 1 f7
 zmiana 2 f7
 zmiana 3 f7
 
