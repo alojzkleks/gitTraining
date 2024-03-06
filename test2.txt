@@ -6,6 +6,4 @@ zmiana 1 f1
 
 zmiana 7 f9
 
-Zmiana f11
-
-zmiana f12 traltralalalal
+Zmiana f11 -asdfasdf
