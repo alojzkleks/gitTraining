@@ -23,3 +23,5 @@ zmiana f16
 
 zmiana f12
 zmiana f14 f17
+
+TO JEST STASH TEN DRUGI

@@ -1,24 +1,26 @@
-Commit to merge 1
-Commit to merge 2
-Commit to merge 123
+Commit to merge 1STASH
+Commit to merge 2STASHSTASH
+Commit to merge 123STASH
 
-Changes for cherry-pick 1
-Changes for cherry-pick 2
-Changes for cherry-pick 3
-Changes for cherry-pick 4.1
-zmiana 1 (b1) + f15
+Changes for cherry-pick 1STASH
+Changes for cherry-pick 2STASH
+Changes for cherry-pick 3STASH
+Changes for cherry-pick 4.1STASH
+zmiana 1 (b1) + f15STASH
 
-zmiana f2
+zmiana f2STASH
 
-zmiana 1 main
-zmiana 1 f4
-zmiana 2 f4
-zmiana 3 f4
+zmiana 1 main STASH
+zmiana 1 f4 STASH
+zmiana 2 f4 STASH
+zmiana 3 f4 STASH
 
-zmiana 1 f5
-zmiana 2 f5
+zmiana 1 f5 STASH
+zmiana 2 f5STASH
 
-zmiana f9
+zmiana f9STASH
 
-f17 zmiana jakaś
-f18
+f17 zmiana jakaśSTASH
+f18STASH
+
+TO ŻEM ZROBIŁ NA ĆWICZENIU STASHA

@@ -1,29 +1,29 @@
-Commit base 23
-Commit to squash 1
-Commit to squash 2
-Commit to squash 3 - f16 zmiana 4
-Commit to squash 4
-zmiana 2 b1
+Commit base 23STASH
+Commit to squash 1STASH
+Commit to squash 2STASH
+Commit to squash 3 - f16 zmiana 4STASH
+Commit to squash 4STASH
+zmiana 2 b1STASH
 
-zmiana f1 tralalala
-zmiana f2 + poprawka f15
-
-zmiana 1 SDFDFSDFSDFSD
-zmiana 2 f3 + f15
-zmiana 3 f3
-zmiana 4 f3
-zmiana 5 f3/zmiana 2 f8
-
-zmiana 1 main
-
-zmiana 2 f7
-zmiana 3 f7
-
-zmiana 1 f8
+zmiana f1 tralalalaSTASH
+zmiana f2 + poprawka f15STASH
+STASH
+zmiana 1 SDFDFSDFSDFSDSTASH
+zmiana 2 f3 + f15STASH
+zmiana 3 f3STASH
+zmiana 4 f3STASH
+zmiana 5 f3/zmiana 2 f8STASH
+STASH
+zmiana 1 mainSTASHSTASH
+STASH
+zmiana 2 f7STASH
+zmiana 3 f7STASH
+STASH
+zmiana 1 f8STASH
 
 Nie lubie plackuf ale nie tylko ich
 
-zmiana 14 f17
-zmiana f18 asdf
+zmiana 14 f17STASH
+zmiana f18 asdfSTASH
 
-zmiana f19
+zmiana f19STASH

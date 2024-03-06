@@ -1,19 +1,19 @@
-Feautre commit new 1. Dodaję zmianę f 17
-Feature commit new 2
-zmiana 3 b1
+Feautre commit new 1. Dodaję zmianę f 17STASH
+Feature commit new 2STASH
+zmiana 3 b1STASH
 
-zmiana 1 f1
+zmiana 1 f1STASH
 
-zmiana 7 f9 + f15 + f17
+zmiana 7 f9 + f15 + f17STASH
 
-Zmiana f11 -asdfasdf
+Zmiana f11 -asdfasdfSTASH
 
-to jest commit z maina prosto to maina\
+to jest commit z maina prosto to maina\STASH
 
-zmiany na f14
-kolejne zmiany na f14
+zmiany na f14STASH
+kolejne zmiany na f14STASH
 
-to jest commit z maina prosto to maina, ale też z poprawką f15
-f16 zmiany
-alskdjfkl;asdjlfg
+to jest commit z maina prosto to maina, ale też z poprawką f15STASH
+f16 zmianySTASH
+alskdjfkl;asdjlfgSTASH
 
