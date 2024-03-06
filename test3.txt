@@ -6,7 +6,7 @@ Commit to squash 4
 zmiana 2 b1
 
 zmiana f1 tralalala
-zmiana f2
+zmiana f2 + poprawka f15
 
 zmiana 1 SDFDFSDFSDFSD
 zmiana 2 f3 + f15
