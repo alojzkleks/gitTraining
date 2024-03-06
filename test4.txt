@@ -17,3 +17,4 @@ zmiana f11 - ta zmiana jest ważna
 zmiana f11 - ta zmiana jest ważna
 
 zmiana f12
+zmiana f14
