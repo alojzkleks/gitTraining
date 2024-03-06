@@ -8,4 +8,6 @@ zmiana 7 f9
 
 Zmiana f11 -asdfasdf
 
-to jest commit z maina prosto to maina
+to jest commit z maina prosto to maina\
+
+zmiany na f14
