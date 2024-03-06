@@ -12,3 +12,6 @@ zmiana 5 f9 trataret
 
 zmiana f10
 i druga
+
+zmiana f11 - ta zmiana jest ważna
+zmiana f11 - ta zmiana jest ważna
