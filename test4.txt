@@ -8,7 +8,7 @@ zmiana f2
 zmiana 1 f9adfg
 zmiana 2 f9
 zmiana 4 f9
-zmiana 5 f9 trataret
+zmiana 5 f9 trataret ZMIANA F19 
 
 zmiana f10
 i druga
