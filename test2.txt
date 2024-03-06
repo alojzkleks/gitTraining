@@ -6,4 +6,4 @@ zmiana 1 f1
 
 zmiana 7 f9
 
-Zmiana f11
+Zmiana f11 -asdfasdf
