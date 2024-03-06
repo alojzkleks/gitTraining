@@ -20,3 +20,6 @@ zmiana f12 + f16
 zmiana f14
 
 zmiana f16
+
+zmiana f12
+zmiana f14 f17
