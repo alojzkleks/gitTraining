@@ -3,25 +3,4 @@ Commit to merge squash 2
 Commit to merge squash 3ggg + f16 zmiana 5
 Commit to merge squash 4
 
-zmiana f2
-
-zmiana 1 f9adfg
-zmiana 2 f9
-zmiana 4 f9
-zmiana 5 f9 trataret ZMIANA F19 
-
-zmiana f10
-i druga
-
-zmiana f11 - ta zmiana jest ważna
-zmiana f11 - ta zmiana jest ważna
-
-zmiana f12 + f16
-zmiana f14
-
-zmiana f16
-
-zmiana f12
-zmiana f14 f17
-
-TO JEST STASH TEN DRUGI
+to jest f1
