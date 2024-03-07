@@ -16,4 +16,4 @@ kolejne zmiany na f14STASH
 to jest commit z maina prosto to maina, ale też z poprawką f15STASH
 f16 zmianySTASH
 alskdjfkl;asdjlfgSTASH
-
+f2
