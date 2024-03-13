@@ -13,5 +13,4 @@ zmiana
 f17 zmiana jakaśSTASH
 f18STASH
 
-TO ŻEM ZROBIŁ NA ĆWICZENIU STASHA
-
+TO ŻEM ZROBIŁ NA ĆWICZENIU STASHA + zmiana na f3
