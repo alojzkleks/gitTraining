@@ -5,4 +5,4 @@ Commit to squash 3 - f16 zmiana 4STASH
 Commit to squash 4STASH
 zmiana 2 b1STASH f1
 
-f1
+f4
