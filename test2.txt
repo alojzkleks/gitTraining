@@ -2,7 +2,7 @@ Feautre commit new 1. Dodaję zmianę f 17STASH
 Feature commit new 2STASH
 zmiana 3 b1STASH
 
-
+zmiana f4
 
 zmiana 7 f9 + f15 + f17STASH
 
@@ -16,4 +16,4 @@ kolejne zmiany na f14STASH
 to jest commit z maina prosto to maina, ale też z poprawką f15STASH
 f16 zmianySTASH
 alskdjfkl;asdjlfgSTASH
-f2
+f2 - zmiana f4
