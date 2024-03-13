@@ -8,7 +8,7 @@ zmiana 7 f9 + f15 + f17STASH
 
 Zmiana f11 -asdfasdfSTASH
 
-to jest commit z maina prosto to maina\STASH asdf
+to jest commit z maina prosto to maina\STASH asdf jakaś zmiana na f3
 
 zmiany na f14STASH
 kolejne zmiany na f14STASH
@@ -16,4 +16,4 @@ kolejne zmiany na f14STASH
 to jest commit z maina prosto to maina, ale też z poprawką f15STASH
 f16 zmianySTASH
 alskdjfkl;asdjlfgSTASH
-f2 - zmiana f4
+f2 + f3

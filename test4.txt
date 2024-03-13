@@ -1,7 +1,7 @@
 Commit to merge squash 1
-Commit to merge squash 2
+Commit to merge
 Commit to merge squash 3ggg + f16 zmiana 5
 Commit to merge squash 4
 
 to jest f1
-zmiana zmiana
+zmiana na f3
