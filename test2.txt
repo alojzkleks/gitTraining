@@ -2,7 +2,7 @@ Feautre commit new 1. Dodaję zmianę f 17STASH
 Feature commit new 2STASH
 zmiana 3 b1STASH
 
-zmiana f4
+zmiana f4 i f1
 
 zmiana 7 f9 + f15 + f17STASH
 
