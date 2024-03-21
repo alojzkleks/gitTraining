@@ -12,8 +12,3 @@ to jest commit z maina prosto to maina\STASH asdf jakaś zmiana na f3
 
 zmiany na f14STASH
 kolejne zmiany na f14STASH
-
-to jest commit z maina prosto to maina, ale też z poprawką f15STASH
-f16 zmianySTASH
-alskdjfkl;asdjlfgSTASH
-f2 + f3
