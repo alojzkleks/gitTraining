@@ -8,3 +8,4 @@ zmiana 2 b1STASH f1
 f1
 
 zmiana na f3 jakaś
+zmiana na f2
