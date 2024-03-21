@@ -1,7 +1,7 @@
 Commit base 23STASH
 Commit to squash 1STASH
 Commit to squash 2STASH
-Commit to squash 3 - f16 zmiana 4STASH
+Commit to squash 3 - f16 zmiana 4STASHasdf
 Commit to squash 4STASH
 zmiana 2 b1STASH f1
 
