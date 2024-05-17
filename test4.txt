@@ -2,10 +2,9 @@ Commit to merge squash 1
 Commit to merge
 Commit to merge squash 3ggg + f16 zmiana 5
 Commit to merge squash 4
-
+asdf
 to jest f1
 zmiana na f3
 zmiananannanasdf
 zmiananannanasdf
-asdf   asdf asdf as
-asdfklj
+asdf 
