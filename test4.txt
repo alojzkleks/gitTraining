@@ -5,4 +5,6 @@ Commit to merge squash 4
 
 to jest f1
 zmiana na f3
-zmiananannan
+zmiananannanasdf
+zmiananannanasdf
+asdf 
