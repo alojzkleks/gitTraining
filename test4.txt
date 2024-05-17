@@ -7,5 +7,5 @@ to jest f1
 zmiana na f3
 zmiananannanasdf
 zmiananannanasdf
-asdf 
+asdf f
 asdfasdfasdffafa
