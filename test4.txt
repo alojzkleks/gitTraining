@@ -5,7 +5,7 @@ Commit to merge squash 4
 asdf
 to jest f1
 zmiana na f3
-zmiananannanasdf
+zmiananannanasdf a
 zmiananannanasdf
 asdf f
 asdfasdfasdffafa
