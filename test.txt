@@ -8,13 +8,12 @@ Changes for cherry-pick 3STASH
 Changes for cherry-pick 4.1STASH
 zmiana 1 (b1) + f15STASH
 
-zmianaasdf
+zmianaasdfasdf
 
 f17 zmiana jakaśSTASH
 f18STASH
-
+asdf
 TO ŻEM ZROBIŁ NA ĆWICZENIU STASHA + zmiana na f3
-Zmuiana
-to jest zmiana na f2
-asfasdf
-asdfasdfasdfasdfasfdasdasdfs
+Zmuianaasdf
+to jest asdf
+asdfasdfasdfasdfasfdasdasdfsasdf
