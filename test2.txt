@@ -20,4 +20,4 @@ f2 + f3
 df
 to jest zmiana f2asdf
 asasdfasdasdas
-asasdfasdasdfasd
+asasdfasdasdfasdas
