@@ -18,6 +18,6 @@ f16 zmianySTASH
 alskdjfkl;asdjlfgSTASH
 f2 + f3
 df
-to jest zmiana f2
+to jest zmiana f2asdf
 asasdfasd
 asasdfasdasdfasd
