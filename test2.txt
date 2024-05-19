@@ -17,7 +17,7 @@ to jest commit z maina prosto to maina, ale też z poprawką f15STASH
 f16 zmianySTASH
 alskdjfkl;asdjlfgSTASH
 f2 + f3
-
+df
 to jest zmiana f2
 asasdfasd
 asasdfasdasdfasd
