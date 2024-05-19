@@ -4,18 +4,18 @@ Commit to merge 123STASH
 
 Changes for cherry-pick 1STASH
 Changes for cherry-pick 2STASH
-Changes for cherry-pick 3STASH
+Changes for cherry-pick 3STASHasd
 Changes for cherry-pick 4.1STASH
 zmiana 1 (b1) + f15STASH
 
-zmianaasdf
+zmianaasdfasdf
 
 f17 zmiana jakaśSTASH
 f18STASH
 
 TO ŻEM ZROBIŁ NA ĆWICZENIU STASHA + zmiana na f3
 Zmuiana
-to jest zmiana na f2
-afda
+to jest zmiana asna f2
+afdaa
 afadfas
-afadfas
+afadfasas
