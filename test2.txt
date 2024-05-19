@@ -19,4 +19,4 @@ alskdjfkl;asdjlfgSTASH
 f2 + f3
 
 to jest zmiana f2
-asasdf as
+asasdf asas
